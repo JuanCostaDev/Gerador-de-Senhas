@@ -6,7 +6,7 @@
 
 https://juancostadev.github.io/Mini-Apresenta-o-Pessoal/
 
-Um rápido gerador de senha feito com o objetivo de melhorar minhas habilidades em HTML, CSS E JS. A senha é composta por letras minúsculas, maiúsculas e caracteres especiais podendo ter o minimo de 5 caracteres e no maximo 25.
+Um rápido gerador de senha feito com o objetivo de melhorar minhas habilidades em HTML, CSS E JS. A senha é composta por letras minúsculas, maiúsculas e caracteres especiais podendo ter o mínimo de 5 caracteres e no máximo 25.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/JuanCostaDev/Assets/blob/main/Fotos%20Gerador%20de%20Senhas/Foto%20Gerador%20de%20senha%20Mobile.jpg) 
